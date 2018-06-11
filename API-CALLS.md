@@ -187,3 +187,25 @@ choose station
 http://192.168.11.8/play_url?id=154_2
 ```xml
 ```
+
+
+# Other Commands not by the Android App
+
+## Webpage
+http://192.168.11.8/
+
+
+http://192.168.11.8/set_dname?name=dabman-sz
+
+http://192.168.11.8/scan_wifi
+
+http://192.168.11.8/scan_results
+
+
+## UPNP
+
+http://192.168.11.8:52525/root_XXYY.xml
+
+http://192.168.11.8:52525/root_XXYY_S.xml
+
+http://192.168.11.8:52525/walkie_XXYY_S.xml
