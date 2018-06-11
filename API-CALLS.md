@@ -118,20 +118,36 @@ http://192.168.11.8/Sendkey?key=2
 <result><rt>OK</rt></result>
 ```
 
-http://192.168.11.8/Sendkey?key=3
-http://192.168.11.8/Sendkey?key=4
-http://192.168.11.8/Sendkey?key=5
-http://192.168.11.8/Sendkey?key=6
-http://192.168.11.8/Sendkey?key=7
-http://192.168.11.8/Sendkey?key=8
-http://192.168.11.8/Sendkey?key=11
-http://192.168.11.8/Sendkey?key=12
-http://192.168.11.8/Sendkey?key=14
-http://192.168.11.8/Sendkey?key=28
-http://192.168.11.8/Sendkey?key=106
-http://192.168.11.8/Sendkey?key=168
-http://192.168.11.8/Sendkey?key=116
-http://192.168.11.8/Sendkey?key=119
+not checked. Could be wrong, please check yourself.
+
+| Key | Description |
+|-----|-------------|
+| 2  | UP          |
+| 8  | MUTE        |
+| 4  | LEFT        |
+| 6  | ENTER       |
+| 5  | Right |
+| 9  | Vol+ |
+| 3  | Down |
+| 10 | Vol - |
+| 28 | Mode |
+| 1  | Home |
+| 15 | Star |
+| 168| KEY |
+| 12 | Sleep |
+| 11 | Alarm |
+| 14 | Light |
+| 32 | prev |
+| 29 | play/pause |
+| 31 | next |
+|115 | 1 |
+|116 | 2 |
+|116 | 3|
+|117 | 4 |
+|118 | 5 |
+|19  | EQ |
+|106 | OFF |
+| 7  |  |
 
 http://192.168.11.8/back
 ```xml
