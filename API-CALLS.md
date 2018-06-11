@@ -174,16 +174,16 @@ http://192.168.11.8/GetFMStatus
 http://192.168.11.8/GetBTStatus
 ```xml
 ```
-## Suche nach Stationen
+## Search for station
 http://192.168.11.8/searchstn?str=radio
 -> gibt id 100 zurück
 ```xml
 ```
-Suchergebnisse
+Search Results
 http://192.168.11.8/list?id=100&start=1&count=100
 ```xml
 ```
-Station auswählen
+choose station
 http://192.168.11.8/play_url?id=154_2
 ```xml
 ```
